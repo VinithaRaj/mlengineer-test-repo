@@ -1,4 +1,3 @@
-# mlengineer-test-repo
 The submission includes a clear README or written overview outlining:
 
 Design a Retrieval-Augmented Generation (RAG) system that:
